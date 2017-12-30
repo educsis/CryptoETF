@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "babel-preset-es2015": "^6.24.1",
-    "binance": "^1.1.0",
+    "binance": "^1.1.2",
     "bitfinex": "^1.0.3",
     "coinbase": "^2.0.6",
     "gdax": "^0.4.2",
@@ -16,13 +16,13 @@
     "babel": "^6.23.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.24.1",
-    "babel-loader": "^6.4.1",
+    "babel-loader": "^7.1.2",
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
     "babel-preset-es2015": "^6.24.1",
     "chai": "^4.1.2",
-    "mocha": "^4.0.1",
+    "mocha": "^4.1.0",
     "nyc": "^11.3.0"
   },
   "scripts": {
